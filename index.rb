@@ -1,5 +1,5 @@
 #require 'net/http'
-require 'httpparty'
+require 'httparty'
 require 'json'
 
 def get_first_ability(name)
